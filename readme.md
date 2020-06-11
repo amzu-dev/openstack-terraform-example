@@ -1,14 +1,3 @@
-# Ruby on Rails + React with Hooks  
-  
-This project provides a skeleton/template for Ruby on Rails + React with Hooks  
-  
-Ruby and Gem Versions Used:
-|Component|Version  |
-|--|--|
-| Ruby |2.7.0  |
-| Rails |6.0.3.1  |
-| bcrypt|3.1.13 |
-| jwt|2.2.1|
 
 # Openstack Terraform Example
 
